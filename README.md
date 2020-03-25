@@ -14,3 +14,5 @@ When the signal is neither buy nor sell, it is classified as hold. If you alread
 The dataset here has been extracted from the NSE website. The Stock price data provided is from 1-Jan-2015 to 31-July-2018 for six stocks Eicher Motors, Hero, Bajaj Auto, TVS Motors, Infosys and TCS.
 
 Please note that for the days where it is not possible to calculate the required Moving Averages, it is better to ignore these rows rather than trying to deal with NULL by filling it with average value as that would make no practical sense.
+
+Tech Stack Used: MySQlWorkbench (MySQL)
